@@ -2,7 +2,8 @@
 
 https://live-covid-19-stats.netlify.app/
 
-
+# API USED:-
+https://covid19.mathdro.id/api
 
 # Getting Started with Create React App
 
