@@ -5,6 +5,7 @@ https://live-covid-19-stats.netlify.app/
 API USED:--- https://covid19.mathdro.id/api
 
 SKILLS:---React, Charts.JS and Material UI is used to create this site.
+![alt text](http://url/to/React-App(2).png)
 
 # Getting Started with Create React App
 
