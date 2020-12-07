@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 65%;
+  }
+  
+  @media only screen and (max-width: 770px) {
+    .container {
+      width: 100%;
+    }
+  }
+/* .container {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    margin: 3rem;
+}
+
+@media (max-widht: 770px) {
+    .container {
+        width: 100%;
+    }
+} */
