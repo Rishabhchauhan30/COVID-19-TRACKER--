@@ -1,5 +1,6 @@
-#SITE IS LIVE HERE:-
-live-covid-19-stats.netlify.app
+# SITE IS LIVE HERE:-
+
+https://live-covid-19-stats.netlify.app/
 
 
 
