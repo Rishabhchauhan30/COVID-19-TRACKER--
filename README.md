@@ -1,4 +1,4 @@
-# SITE IS LIVE HERE:-
+# 🚀SITE IS LIVE HERE:-
 
 https://live-covid-19-stats.netlify.app/
 
